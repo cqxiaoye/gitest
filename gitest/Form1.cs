@@ -16,6 +16,8 @@ namespace gitest
             InitializeComponent();
 
             //我只是想测试下git
+
+            //int a=b;
         }
     }
 }
