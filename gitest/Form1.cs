@@ -14,6 +14,8 @@ namespace gitest
         public Form1()
         {
             InitializeComponent();
+
+            //我只是想测试下git
         }
     }
 }
